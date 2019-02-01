@@ -1,0 +1,9 @@
+{
+  "name": "mycoin",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/emperorhan/mycoin.git",
+  "author": "emperorhan <iny27@naver.com>",
+  "license": "MIT",
+  "private": false
+}
